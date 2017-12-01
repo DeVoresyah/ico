@@ -5,7 +5,7 @@
  *  Based on OpenZeppelin framework.
  *  https://openzeppelin.org
  *
- *  Author: Pauius Tumosa
+ *  Author: Paulius Tumosa
  **/
 
 pragma solidity ^0.4.18;
